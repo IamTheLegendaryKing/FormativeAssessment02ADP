@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sOJSJZWEE5Jidd5JTNS00Ad/Vv11bKA/HBZJ5lvDN/Ohjaif1dCHKPiDcoCDmfkgDAYtF7P+S+fQuTU3Vk14aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\ctu\\ctu3years\\1 Semester\\ADP631\\classActivity\\GITHUB\\ADP631 FA2 PROJECT\\ADP631 FA2 PROJECT\\ADP631 FA2 PROJECT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
